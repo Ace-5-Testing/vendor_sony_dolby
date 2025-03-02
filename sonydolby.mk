@@ -16,6 +16,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     LunarisDolby
 
+# Overlays
+PRODUCT_PACKAGES += \
+    DolbyFrameworksResCommon
+
 # Sepolicy
 BOARD_VENDOR_SEPOLICY_DIRS += $(DOLBY_PATH)/sepolicy/vendor
 
