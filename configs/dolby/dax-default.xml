@@ -312,7 +312,7 @@
         <peak-value value="256" />
         <surround-decoder-enable value="true" />
         <surround-boost value="0" />
-        <volmax-boost value="0" />
+        <volmax-boost value="98" />
         <hearing-protection-enable value="false" />
         <hearing-protection-rms-averaging-time-win-len value="1" />
         <hearing-protection-rms-attenuation-target value="0" />
@@ -412,8 +412,8 @@
         <mi-virtualizer-binaural-steering-enable value="false" />
         <peak-value value="256" />
         <surround-decoder-enable value="true" />
-        <surround-boost value="32" />
-        <volmax-boost value="0" />
+        <surround-boost value="48" />
+        <volmax-boost value="42" />
         <hearing-protection-enable value="false" />
         <hearing-protection-rms-averaging-time-win-len value="1" />
         <hearing-protection-rms-attenuation-target value="0" />
@@ -514,7 +514,7 @@
         <peak-value value="256" />
         <surround-decoder-enable value="true" />
         <surround-boost value="0" />
-        <volmax-boost value="32" />
+        <volmax-boost value="64" />
         <hearing-protection-enable value="false" />
         <hearing-protection-rms-averaging-time-win-len value="0" />
         <hearing-protection-rms-attenuation-target value="0" />
@@ -615,7 +615,7 @@
         <peak-value value="256" />
         <surround-decoder-enable value="true" />
         <surround-boost value="0" />
-        <volmax-boost value="0" />
+        <volmax-boost value="32" />
         <hearing-protection-enable value="false" />
         <hearing-protection-rms-averaging-time-win-len value="0" />
         <hearing-protection-rms-attenuation-target value="0" />
@@ -716,7 +716,7 @@
         <peak-value value="256" />
         <surround-decoder-enable value="true" />
         <surround-boost value="0" />
-        <volmax-boost value="0" />
+        <volmax-boost value="30" />
         <hearing-protection-enable value="false" />
         <hearing-protection-rms-averaging-time-win-len value="0" />
         <hearing-protection-rms-attenuation-target value="0" />
@@ -816,8 +816,8 @@
         <mi-virtualizer-binaural-steering-enable value="false" />
         <peak-value value="256" />
         <surround-decoder-enable value="true" />
-        <surround-boost value="0" />
-        <volmax-boost value="0" />
+        <surround-boost value="8" />
+        <volmax-boost value="30" />
         <hearing-protection-enable value="false" />
         <hearing-protection-rms-averaging-time-win-len value="1" />
         <hearing-protection-rms-attenuation-target value="0" />
@@ -918,7 +918,7 @@
         <peak-value value="256" />
         <surround-decoder-enable value="true" />
         <surround-boost value="0" />
-        <volmax-boost value="16" />
+        <volmax-boost value="30" />
         <hearing-protection-enable value="false" />
         <hearing-protection-rms-averaging-time-win-len value="6" />
         <hearing-protection-rms-attenuation-target value="-256" />
@@ -947,7 +947,7 @@
         <peak-value value="256" />
         <surround-decoder-enable value="true" />
         <surround-boost value="16" />
-        <volmax-boost value="0" />
+        <volmax-boost value="9" />
         <hearing-protection-enable value="false" />
         <hearing-protection-rms-averaging-time-win-len value="6" />
         <hearing-protection-rms-attenuation-target value="-256" />
@@ -1018,8 +1018,8 @@
         <mi-virtualizer-binaural-steering-enable value="false" />
         <peak-value value="256" />
         <surround-decoder-enable value="true" />
-        <surround-boost value="8" />
-        <volmax-boost value="16" />
+        <surround-boost value="16" />
+        <volmax-boost value="30" />
         <hearing-protection-enable value="false" />
         <hearing-protection-rms-averaging-time-win-len value="6" />
         <hearing-protection-rms-attenuation-target value="-256" />
@@ -1047,8 +1047,8 @@
         <mi-virtualizer-binaural-steering-enable value="false" />
         <peak-value value="256" />
         <surround-decoder-enable value="true" />
-        <surround-boost value="0" />
-        <volmax-boost value="0" />
+        <surround-boost value="16" />
+        <volmax-boost value="18" />
         <hearing-protection-enable value="false" />
         <hearing-protection-rms-averaging-time-win-len value="6" />
         <hearing-protection-rms-attenuation-target value="-256" />
